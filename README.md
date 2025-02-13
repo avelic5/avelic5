@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/Velicaldin/Velicaldin/main/wave.gif" width="40px"> Hi there, I'm Velicaldin 👋
+### <img src="https://raw.githubusercontent.com/Velicaldin/Velicaldin/main/wave.gif" width="40px"> Hi there, I'm Aldin Velić👋
 
 #### 🎓 Computer Science & Informatics Student | 💻 Passionate Programmer | 🚀 Tech Enthusiast
 
@@ -47,13 +47,6 @@ C, C++, C#, Java, Kotlin, Python
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Velicaldin&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Velicaldin&theme=radical" />
 </p>
-
----
-
-### ✨ Fun Fact
-🚀 "Code is like humor. When you have to explain it, it’s bad." - Cory House  
-
-📚 I love learning new programming languages and frameworks! 
 
 ---
 
