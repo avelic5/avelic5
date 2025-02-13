@@ -43,10 +43,6 @@ C, C++, C#, Java, Kotlin, Python
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avelic5&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Velicaldin&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Velicaldin&theme=radical" />
-</p>
 
 ---
 
