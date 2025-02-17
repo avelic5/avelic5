@@ -36,16 +36,6 @@ C, C++, C#, Java, Kotlin, Python
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avelic5&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avelic5&theme=radical" width="48%" />
-</p>
-
-
----
-
 ### 📫 Contact Me
 <p align="center">
   <a href="mailto:velicaldin252@gmail.com">
