@@ -28,10 +28,6 @@ C, C++, Java, .NET, Python, HTML5, CSS3, JavaScript (ES6), Node.js, Express.js, 
 - 🔧 Tools & Collaboration: Git, GitHub, Bitbucket  
 - 🎯 Currently exploring: Modern software development, algorithms, and system design  
  
-
-🔧 **Tools & Technologies:**  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-
 ---
 
 ### 👫 Contact Me
