@@ -1,6 +1,6 @@
-### <img src="https://raw.githubusercontent.com/Velicaldin/Velicaldin/main/wave.gif" width="40px"> Hi there, I'm Aldin Velić 👋
+### <img src="https://raw.githubusercontent.com/Velicaldin/Velicaldin/main/wave.gif" width="40px">Hi there, I'm Aldin Velić 
 
-#### 🎓 Computer Science & Informatics Student | 💻 Passionate Programmer | 🚀 Tech Enthusiast
+#### Computer Science & Informatics Student |  Passionate Programmer |  Tech Enthusiast
 
 ---
 
@@ -22,15 +22,15 @@ I'm a Computer Science and Informatics student at the Faculty of Electrical Engi
 C, C++, Java, .NET, Python, HTML5, CSS3, JavaScript (ES6), Node.js, Express.js, SQL databases (MSSQL, MySQL, SQLite, Oracle, PostgreSQL), React, Git, GitHub, Bitbucket, Kotlin and so more
 ```
 
-- 🛠️ Backend: ASP.NET, Node.js, Express.js, SQL databases (MSSQL, MySQL, SQLite, Oracle, PostgreSQL)  
-- 🌐 Frontend: HTML5, CSS3, JavaScript (ES6), React  
-- 📱 Mobile Development: Kotlin  
-- 🔧 Tools & Collaboration: Git, GitHub, Bitbucket  
-- 🎯 Currently exploring: Modern software development, algorithms, and system design  
+-  **Backend:** ASP.NET, Node.js, Express.js, SQL databases (MSSQL, MySQL, SQLite, Oracle, PostgreSQL)  
+-  **Frontend:** HTML5, CSS3, JavaScript (ES6), React  
+-  **Mobile Development:** Kotlin  
+-  **Tools & Collaboration:** Git, GitHub, Bitbucket  
+-  **Currently exploring:** Modern software development, algorithms, and system design  
  
 ---
 
-### 👫 Contact Me
+###  Contact Me
 <p align="center">
   <a href="mailto:velicaldin252@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
