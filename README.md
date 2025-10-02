@@ -1,6 +1,8 @@
-### <img src="https://raw.githubusercontent.com/Velicaldin/Velicaldin/main/wave.gif" width="40px">Hi there, I'm Aldin Velić 
+### Hi there, I'm Aldin Velić 
 
 #### Computer Science & Informatics Student |  Passionate Programmer |  Tech Enthusiast
+
+💻 **Check out my portfolio:** [My Portfolio](https://portfolio-ydt9.onrender.com)
 
 ---
 
