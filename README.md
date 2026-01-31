@@ -2,7 +2,6 @@
 
 #### Computer Science & Informatics Student |  Passionate Programmer |  Tech Enthusiast
 
-💻 **Check out my portfolio:** [My Portfolio](https://portfolio-ydt9.onrender.com)
 
 ---
 
