@@ -1,7 +1,11 @@
 ### Hi there, I'm Aldin Velić 
 
 #### Computer Science & Informatics Student |  Passionate Programmer |  Tech Enthusiast
+---
 
+###  Portfolio
+You can check out my portfolio here:  
+🔗 **[portfolio-ydt9.onrender.com](https://portfolio-ydt9.onrender.com/)**
 
 ---
 
@@ -23,7 +27,7 @@ I'm a Computer Science and Informatics student at the Faculty of Electrical Engi
 C, C++, Java, .NET, Python, HTML5, CSS3, JavaScript (ES6), Node.js, Express.js, SQL databases (MSSQL, MySQL, SQLite, Oracle, PostgreSQL), React, Git, GitHub, Bitbucket, Kotlin and so more
 ```
 
--  **Backend:** ASP.NET, Node.js, Express.js, SQL databases (MSSQL, MySQL, SQLite, Oracle, PostgreSQL)  
+-  **Backend:** Spring Boot, ASP.NET, Node.js, Express.js, SQL databases (MSSQL, MySQL, SQLite, Oracle, PostgreSQL)  
 -  **Frontend:** HTML5, CSS3, JavaScript (ES6), React  
 -  **Mobile Development:** Kotlin  
 -  **Tools & Collaboration:** Git, GitHub, Bitbucket  
