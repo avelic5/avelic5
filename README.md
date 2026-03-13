@@ -12,7 +12,7 @@ You can check out my portfolio here:
 ### 🔹 About Me
 I'm a Computer Science and Informatics student at the Faculty of Electrical Engineering. I have a strong passion for coding and problem-solving, constantly exploring new technologies and improving my skills. Programming is not just a skill for me—it's something I truly enjoy! 
 
-🌟 **What excites me?**
+ **What excites me?**
 - Crafting clean, efficient, and maintainable code
 - Exploring new technologies & frameworks
 - Learning about software design & architecture
@@ -20,7 +20,7 @@ I'm a Computer Science and Informatics student at the Faculty of Electrical Engi
 
 ---
 
-### 💡 Technologies & Tools
+###  Technologies & Tools
 
 ```c
 // Technologies I have worked with:
