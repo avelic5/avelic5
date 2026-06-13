@@ -5,7 +5,7 @@
 
 ###  Portfolio
 You can check out my portfolio here:  
-🔗 **[portfolio-ydt9.onrender.com](https://velic.site/)**
+🔗 **[velic.site](https://velic.site/)**
 
 ---
 
